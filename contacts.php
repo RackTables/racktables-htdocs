@@ -14,31 +14,9 @@ in your blog would be just Ok.
 <p>There is a free (and even advertisement-free, thanks to <a href="https://www.freelists.org/">FreeLists</a>)
 mailing list for RackTables
 (<tt>racktables-users</tt>). It is currently the best place to share your experience or to ask
-for an advice. To change your subscription to the list, use the form below
-(or the <a href="https://www.freelists.org/list/racktables-users">original Freelists form</a>).
+for an advice. To change your subscription to the list, please use the
+<a href="https://www.freelists.org/list/racktables-users">original Freelists form</a>.
 Public archives of the list are <a href="https://www.freelists.org/archives/racktables-users/">available</a> without subscription.
-
-        <div id="MailingList">
-                <h3>RackTables users mailing list</h3>
-                <form action="https://www.freelists.org/cgi-bin/subscription.cgi" method="post">
-                        <p>
-                                Enter your email address:
-                                <input name="email" type="text">
-                                <input name="list" value="racktables-users" type="hidden">
-                                <input name="url_or_message" value="" type="hidden">
-                                <select name="action">
-                                        <option value="subscribe">Subscribe</option>
-                                        <option value="unsubscribe">Unsubscribe</option>
-                                        <option value="set digest">Turn Digest mode on</option>
-                                        <option value="unset digest">Turn Digest mode off</option>
-                                        <option value="set vacation">Turn Vacation mode on</option>
-                                        <option value="unset vacation">Turn Vacation mode off</option>
-                                        <option value="help">Get Help</option>
-                                </select>
-                                <input value="Go!" type="submit">
-                        </p>
-                </form>
-        </div>
 </p>
 
 <p>If you are sure you found a bug in the software, please use this
