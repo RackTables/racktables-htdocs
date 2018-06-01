@@ -4,10 +4,9 @@ include 'header.php';
 ?>
 <div id="Content">
 <p>For those willing to give thumbs up or to help spreading the word, there are several ranking systems
-this project accepts votes/reviews through: <a href="https://sourceforge.net/projects/racktables">SourceForge</a>,
-<a href="https://www.openhub.net/p/RackTables">Open Hub</a>
-and <a href="https://www.linkedin.com/groups/2246365">LinkedIn</a>. Even a single post
-in your blog would be just Ok.
+this project accepts votes/reviews through: <a href="https://sourceforge.net/projects/racktables">SourceForge</a> and
+<a href="https://www.openhub.net/p/RackTables">Open Hub</a>.
+Even a single post in your blog would be just Ok.
 
 </p>
 
