@@ -22,7 +22,7 @@ Public archives of the list are <a href="https://www.freelists.org/archives/rack
 <a href="https://bugs.racktables.org/">Mantis bug tracking system</a>
 system we have on SourceForge. Like in many volunteer-driven projects,
 requests are not dispatched immediately, but most of the major bugs end up
-fixed eventually. <strong>Please note</strong>, that all reported issues
+fixed eventually. <strong>Please note</strong> that all reported issues
 are public by default, but it is possible to protect sensitive information
 by setting "View Status" of a submitted issue to "private".</p>
 
