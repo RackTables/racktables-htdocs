@@ -12,7 +12,7 @@
 			<!-- li><a href="https://sourceforge.net/projects/racktables"><img align=bottom src="https://sflogo.sourceforge.net/sflogo.php?group_id=293827&type=13" width=120 height=30 alt="Get RackTables at SourceForge.net." /></a>
 			<img width=16 height=16 src='/img/ext-link.png'></li -->
 			<li><a href="https://sourceforge.net/donate/index.php?group_id=293827"><img src="/img/sf-project-support.jpeg" width="88" height="32" border="0" alt="Support This Project" /></a></li>
-			<li><a href='https://travis-ci.org/RackTables/racktables'><img width=90 height=20 src='https://travis-ci.org/RackTables/racktables.svg?branch=maintenance-0.20.x'></a>
+			<li><a href='https://travis-ci.org/RackTables/racktables'><img width=90 height=20 src='https://travis-ci.org/RackTables/racktables.svg?branch=master'></a>
 		</ul>
 	</div>
 	<div id="Copyright">
