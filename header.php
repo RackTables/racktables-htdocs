@@ -31,15 +31,12 @@ if (!isset($bodyId))
 
 <div id="Head">
 	<span id="Logo"><a href="/"><img width=210 height=40 src="/img/logo.png" alt="Racktables"></a></span>
-	<span id="Demo"><a href="demo.php">Demo</a></span>
-	<img width=16 height=16 src='/img/ext-link.png'>
 </div>
 	<div id="TopMenu">
 		<ul>
 			<li><a href="about.php">About</a></li>
 			<li><a href="https://sourceforge.net/projects/racktables/files/">Download</a>
 			<img width=16 height=16 src='/img/ext-link.png'></li>
-			<!-- li><a href="https://sourceforge.net/project/screenshots.php?group_id=293827">Screenshots</a></li -->
 			<li><a href="screenshots.php">Screenshots</a></li>
 			<li><a href="team.php">Team</a></li>
 			<li><a href="contacts.php">Feedback and community</a></li>
