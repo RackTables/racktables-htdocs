@@ -17,13 +17,6 @@ include 'header.php';
   <b>Component Responsibilities:</b> SNMP, VMs/containers<br>
 <br><hr><br>
 
-<h2 id="andriyanov">Alexey Andriyanov</h2>
-  <b>IRC Nick:</b> N/A<br>
-  <b>Location:</b> Moscow, Russia<br>
-  <b>RackTables Responsibilities:</b> developer<br>
-  <b>Component Responsibilities:</b> IPv4/IPv6/SLB, JavaScript<br>
-<br><hr><br>
-
 <h2 id=alaunay">Arnaud Launay</h2>
   <b>IRC Nick:</b> alaunay<br>
   <b>Location:</b> France<br>
