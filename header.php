@@ -1,5 +1,5 @@
 <?php
-$lastrelease = '0.20.14';
+$lastrelease = '0.21.2';
 $demorelease = '0.21.1';
 if (!isset($bodyId))
 	$bodyId = 'IndexPage';
