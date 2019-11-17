@@ -1,6 +1,6 @@
 <?php
 $lastrelease = '0.21.4';
-$demorelease = '0.21.2';
+$demorelease = '0.21.4';
 if (!isset($bodyId))
 	$bodyId = 'IndexPage';
 ?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
