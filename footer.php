@@ -10,6 +10,7 @@
 				<img width=16 height=16 src='/img/ext-link.png'></li>
 			<li><a href='https://travis-ci.org/RackTables/racktables'><img width=90 height=20 src='https://travis-ci.org/RackTables/racktables.svg?branch=master'></a>
 				<img width=16 height=16 src='/img/ext-link.png'></li>
+			<li><img alt="RackTables download stats" src="https://img.shields.io/sourceforge/dm/racktables.svg"></li>
 		</ul>
 	</div>
 	<div id="Copyright">
