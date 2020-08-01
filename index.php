@@ -1,4 +1,6 @@
-<?php include 'header.php';?>
+<?php
+require 'header.php';
+?>
 <div id="Content">
 	<div id="MainMotto">
 		<h1>RackTables is a datacenter asset management system</h1>
@@ -18,4 +20,5 @@
 		</a></div></div>
 	</div>
 </div>
-<?php include 'footer.php';?>
+<?php
+require 'footer.php';

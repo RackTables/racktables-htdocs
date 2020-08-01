@@ -1,6 +1,6 @@
 <?php
 $bodyId = 'TeamPage';
-include 'header.php';
+require 'header.php';
 ?>
 <div id="Content">
 <h2 id="pilot">Denis Ovsienko</h2>
@@ -20,4 +20,5 @@ include 'header.php';
   <b>Location:</b> France<br>
   <b>Responsibilities:</b> systems administrator<br>
 </div>
-<?php include 'footer.php';?>
+<?php
+require 'footer.php';

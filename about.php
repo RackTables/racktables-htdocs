@@ -1,6 +1,6 @@
 <?php
 $bodyId = 'AboutPage';
-include 'header.php';
+require 'header.php';
 ?>
 <div id="Content">
 	<div id="Features">
@@ -30,4 +30,5 @@ include 'header.php';
 <p><strong>P. S.</strong> The name "RackTables" comes from the fact that the original motivation for this software was to replace a set of pre-existing rack diagrams. The diagrams were manually maintained as tables inside a wiki page &mdash; one table per rack. When rendered, the wiki page looked very remotely similar to how current RackTables displays rack diagrams. As the purpose of the very first script was to generate for the same <u>racks</u> the same HTML <u>tables</u> from a few <u>tables</u> in a MySQL database, it was quite natural that "RackTables" happened to be the name for that first script, and then it just remained.</p>
 
 </div>
-<?php include 'footer.php';?>
+<?php
+require 'footer.php';

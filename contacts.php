@@ -1,6 +1,6 @@
 <?php
 $bodyId = 'ContactsPage';
-include 'header.php';
+require 'header.php';
 ?>
 <div id="Content">
 <p>For those willing to give thumbs up or to help spreading the word, there are several ranking systems
@@ -29,4 +29,5 @@ by setting "View Status" of a submitted issue to "private".</p>
 <p>If for some reason the public list and the bug tracker are not the choice
 for the matter, there is a closed committers-only list: <img src="img/email2011.png" class="email" width=154 height=15>.</p>
 </div>
-<?php include 'footer.php';?>
+<?php
+require 'footer.php';

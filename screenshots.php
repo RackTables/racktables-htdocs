@@ -1,4 +1,6 @@
-<?php include 'header.php';?>
+<?php
+require 'header.php';
+?>
 <div id="Content">
 	<div class="screenshotBlock">
 		<div class="screenshotImageRight"><a href="img/screenshots/shot-objectspace-3.png"><img src="img/screenshots/minishot-objectspace-3.png" width=160 height=168></a></div>
@@ -21,4 +23,5 @@ Organize and label anything you want with flexible tagging mechanism, so when yo
 	</div>
 
 </div>
-<?php include 'footer.php';?>
+<?php
+require 'footer.php';
