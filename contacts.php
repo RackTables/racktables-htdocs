@@ -27,7 +27,7 @@ are public by default, but it is possible to protect sensitive information
 by setting "View Status" of a submitted issue to "private".</p>
 
 <p>If for some reason the public list and the bug tracker are not the choice
-for the matter, there is a closed committers-only list: <img src="img/email2011.png" class="email" width=154 height=15>.</p>
+for the matter, there is a closed committers-only list: <img src="img/email2011.png" class="email" width="154" height="15" alt="where to send" />.</p>
 </div>
 <?php
 require 'footer.php';

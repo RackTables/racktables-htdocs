@@ -5,7 +5,7 @@ require 'header.php';
 	<div id="MainMotto">
 		<h1>RackTables is a datacenter asset management system</h1>
 	</div>
-	<div id="MainScreenshot"><img src="img/screenshots/shot-indexpage.png" width=471 height=313></div>
+	<div id="MainScreenshot"><img src="img/screenshots/shot-indexpage.png" width="471" height="313" alt="index page screenshot" /></div>
 	<div id="MainText">
 		<p>RackTables is a nifty and robust solution for datacenter and server room asset management. It helps document hardware assets, network addresses, space in racks, networks configuration and much much more!</p>
 		<div id="Download"><h3>Check the</h3><div id="DownloadButton"><a href="demo.php">Live demo (<?php echo $demorelease; ?>)</a></div></div>

@@ -18,7 +18,7 @@ define ('EXTLINKIMG', '<img width="16" height="16" src="/img/ext-link.png" alt="
 <body id="<?php echo $bodyId; ?>">
 
 <div id="Head">
-	<span id="Logo"><a href="/"><img width=210 height=40 src="/img/logo.png" alt="RackTables"></a></span>
+	<span id="Logo"><a href="/"><img width="210" height="40" src="/img/logo.png" alt="RackTables" /></a></span>
 	<div id="TopMenu">
 		<ul>
 			<li><a href="about.php">About</a></li>
