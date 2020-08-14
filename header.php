@@ -15,7 +15,7 @@ if (!isset($bodyId))
 <body id="<?php echo $bodyId; ?>">
 
 <div id="Head">
-	<span id="Logo"><a href="/"><img width=210 height=40 src="/img/logo.png" alt="Racktables"></a></span>
+	<span id="Logo"><a href="/"><img width=210 height=40 src="/img/logo.png" alt="RackTables"></a></span>
 </div>
 	<div id="TopMenu">
 		<ul>
