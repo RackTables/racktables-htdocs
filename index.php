@@ -13,7 +13,7 @@ require 'header.php';
 <?php if ( isset ($currentrelease) && $currentrelease !== $lastrelease) { ?>
 		<h3>The current release<img width=16 height=16 src='/img/ext-link.png'></h3><div id="DownloadButton">
 		<a href="https://sourceforge.net/projects/racktables/files/RackTables-<?php echo $currentrelease;?>.tar.gz/download">RackTables <?php echo $currentrelease;?>
-		</a></div><br>
+		</a></div><br/>
 <?php  } ?>
 		<h3>The latest stable release<img width=16 height=16 src='/img/ext-link.png'></h3><div id="DownloadButton">
 		<a href="https://sourceforge.net/projects/racktables/files/RackTables-<?php echo $lastrelease;?>.tar.gz/download">RackTables <?php echo $lastrelease;?>
