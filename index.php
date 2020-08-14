@@ -11,11 +11,11 @@ require 'header.php';
 		<div id="Download"><h3>Check the</h3><div id="DownloadButton"><a href="demo.php">Live demo (<?php echo $demorelease; ?>)</a></div></div>
 <div id="Download">
 <?php if ( isset ($currentrelease) && $currentrelease !== $lastrelease) { ?>
-		<h3>The current release<img width=16 height=16 src='/img/ext-link.png'></h3><div id="DownloadButton">
+		<h3>The current release<?php echo EXTLINKIMG; ?></h3><div id="DownloadButton">
 		<a href="https://sourceforge.net/projects/racktables/files/RackTables-<?php echo $currentrelease;?>.tar.gz/download">RackTables <?php echo $currentrelease;?>
 		</a></div><br/>
 <?php  } ?>
-		<h3>The latest stable release<img width=16 height=16 src='/img/ext-link.png'></h3><div id="DownloadButton">
+		<h3>The latest stable release<?php echo EXTLINKIMG; ?></h3><div id="DownloadButton">
 		<a href="https://sourceforge.net/projects/racktables/files/RackTables-<?php echo $lastrelease;?>.tar.gz/download">RackTables <?php echo $lastrelease;?>
 		</a></div></div>
 	</div>
