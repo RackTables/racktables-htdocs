@@ -14,7 +14,7 @@
 		</ul>
 	</div>
 	<div id="Copyright">
-Copyright &copy; 2019-2020 Denis Ovsienko and contributors<br/>
+Copyright &copy; 2019-2021 Denis Ovsienko and contributors<br/>
 Copyright &copy; 2018 Denis Ovsienko, Alexey Andriyanov, Aaron Dummer and contributors<br/>
 Copyright &copy; 2013-2017 Alexey Andriyanov, Aaron Dummer, Denis Ovsienko and contributors<br/>
 Copyright &copy; 2011-2012 Denis Ovsienko, Alexey Andriyanov, Aaron Dummer, Jonathan Thurman and contributors<br/>
