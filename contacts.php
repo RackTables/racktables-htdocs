@@ -3,6 +3,11 @@ $bodyId = 'ContactsPage';
 require 'header.php';
 ?>
 <div id="Content">
+<p>
+<strong>IRC presence</strong> is on <tt>#RackTables</tt> channel of the
+<a href='https://libera.chat/'>Libera.Chat</a> IRC network.
+</p>
+
 <p>For those willing to give thumbs up or to help spreading the word, there are several ranking systems
 this project accepts votes/reviews through: <a href="https://sourceforge.net/projects/racktables">SourceForge</a> and
 <a href="https://www.openhub.net/p/RackTables">Open Hub</a>.

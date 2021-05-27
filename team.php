@@ -4,7 +4,7 @@ require 'header.php';
 ?>
 <div id="Content">
 <h2 id="pilot">Denis Ovsienko</h2>
-  <b>IRC Nick:</b> pilot<br/>
+  <b>IRC Nick:</b> denis<br/>
   <b>Location:</b> Edinburgh, United Kingdom<br/>
   <b>Responsibilities:</b> developer<br/>
 <br/>
