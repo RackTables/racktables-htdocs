@@ -1,7 +1,7 @@
 <?php
 $lastrelease = '0.21.5';
 $demorelease = '0.21.5';
-if (!isset($bodyId))
+if (! isset ($bodyId))
 	$bodyId = 'IndexPage';
 
 define ('EXTLINKIMG', '<img width="16" height="16" src="/img/ext-link.png" alt="external link" />');
