@@ -1,7 +1,5 @@
-#!/bin/sh
+#!/bin/sh -e
 
-ret=0
 for f in *.php; do
-	php --syntax-check "$f" || ret=1
+	php --syntax-check "$f"
 done
-exit $ret
