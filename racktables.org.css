@@ -38,16 +38,6 @@ hr {
 	margin-left: -8px;
 }
 
-#Head #Demo {
-	font-size: 1.6em;
-	font-style: italic;
-	position: relative;
-	bottom: 2px;
-}
-
-#Head #Demo a {
-}
-
 #TopMenu {
 	margin: 40px 0px 20px 0px;
 	padding: 0px 0px 10px 0px;
@@ -77,24 +67,9 @@ hr {
 	color: #555;
 }
 
-#FreshMeat {
-	margin: 40px 0px 20px 0px;
-	padding: 0px 0px 10px 0px;
-	float: right;
-	font-size: 1.4em;
-}
-
-#FreshMeat a {
-	text-decoration: none;
-}
-
-#FreshMeat a:hover {
-	text-decoration: underline;
-}
 #Content {
 	margin: 10px;
 }
-
 
 #Content #MainScreenshot {
 	float: right;
@@ -174,33 +149,9 @@ div.DownloadButton a {
 	color: #555;
 }
 
-#MailingList {
-	margin-bottom: 20px;
-}
-
-#MailingList h3 {
-	margin-top: 20px;
-	margin-left: 2em;
-	font-size: 1.1em;
-	font-weight: bold;
-}
-
-#MailingList a{
-}
-
-#MailingList p{
-	margin-left: 20px;
-	margin-top: 5px;
-}
-
-#MailingList input, #MailingList select {
-	border: 1px solid black;
-}
-
 #Copyright {
 	font-size: 0.6em;
 }
-
 
 .screenshotBlock {
 	width: 500px;
