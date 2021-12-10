@@ -4,7 +4,7 @@ require 'header.php';
 ?>
 <div id="Content">
 <p>
-<strong>IRC presence</strong> is on <tt>#RackTables</tt> channel of the
+<strong>IRC presence</strong> is on <code>#RackTables</code> channel of the
 <a href='https://libera.chat/'>Libera.Chat</a> IRC network.
 </p>
 
@@ -17,7 +17,7 @@ Even a single post in your blog would be just Ok.
 
 <p>There is a free (and even advertisement-free, thanks to <a href="https://www.freelists.org/">FreeLists</a>)
 mailing list for RackTables
-(<tt>racktables-users</tt>). It is currently the best place to share your experience or to ask
+(<code>racktables-users</code>). It is currently the best place to share your experience or to ask
 for an advice. To change your subscription to the list, please use the
 <a href="https://www.freelists.org/list/racktables-users">original Freelists form</a>.
 Public archives of the list are <a href="https://www.freelists.org/archives/racktables-users/">available</a> without subscription.
