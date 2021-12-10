@@ -21,7 +21,7 @@ require 'header.php';
 if (isset ($currentrelease) && $currentrelease !== $lastrelease)
 {
 ?>
-			<h3>The current release<?php echo EXTLINKIMG; ?></h3>
+			<h3><span class=away>The current release</span></h3>
 			<div class="DownloadButton">
 				<a href="https://sourceforge.net/projects/racktables/files/RackTables-<?php echo $currentrelease;?>.tar.gz/download">RackTables <?php echo $currentrelease; ?></a>
 			</div>
@@ -29,7 +29,7 @@ if (isset ($currentrelease) && $currentrelease !== $lastrelease)
 <?php
 }
 ?>
-			<h3>The latest stable release<?php echo EXTLINKIMG; ?></h3>
+			<h3><span class=away>The latest stable release</span></h3>
 			<div class="DownloadButton">
 				<a href="https://sourceforge.net/projects/racktables/files/RackTables-<?php echo $lastrelease;?>.tar.gz/download">RackTables <?php echo $lastrelease; ?></a>
 			</div>

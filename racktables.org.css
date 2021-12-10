@@ -21,6 +21,11 @@ a:visited {
 	color: #555;
 }
 
+a.away, span.away {
+	padding-right: 16px;
+	background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAAXNSR0IArs4c6QAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9kMEBAINwBO0a4AAABRSURBVCjPY/z//z8DKYCJgURAsgYWPHKMjIxwNtzl+GzA6j0WPOYhi2B3ErKRcNX///9H1smE3/UQI5ANItkPTLiU4vIGnSMOaziih8fgS3wAxsckG6/Kbg0AAAAASUVORK5CYII=") center right no-repeat;
+}
+
 p {
 	margin-top: 2em;
 	text-indent: 2em;

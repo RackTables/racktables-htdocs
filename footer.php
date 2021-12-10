@@ -2,14 +2,12 @@
 	<div id="BottomMenu">
 		<ul>
 			<li><a href="https://wiki.racktables.org/">Wiki</a></li>
-			<li><a href="https://github.com/RackTables/racktables">Source code</a> <?php echo EXTLINKIMG; ?>
+			<li><a class=away href="https://github.com/RackTables/racktables">Source code</a>
 				<small>(<a href="https://code.racktables.org/">mirror</a>)</small></li>
 			<li><a href='https://bugs.racktables.org/'>Bug tracker</a></li>
 			<li><a href='https://bugs.racktables.org/roadmap_page.php'>Roadmap</a></li>
-			<li><a href="https://sourceforge.net/donate/index.php?group_id=293827"><img src="/img/sf-project-support.jpeg" width="88" height="32" border="0" alt="Support This Project" /></a>
-				<?php echo EXTLINKIMG; ?></li>
-			<li><a href='https://cirrus-ci.com/github/RackTables/racktables'><img width="90" height="20" src='https://api.cirrus-ci.com/github/RackTables/racktables.svg?branch=master' alt='CI status' /></a>
-				<?php echo EXTLINKIMG; ?></li>
+			<li><a class=away href="https://sourceforge.net/donate/index.php?group_id=293827"><img src="/img/sf-project-support.jpeg" width="88" height="32" border="0" alt="Support This Project" /></a></li>
+			<li><a class=away href='https://cirrus-ci.com/github/RackTables/racktables'><img width="90" height="20" src='https://api.cirrus-ci.com/github/RackTables/racktables.svg?branch=master' alt='CI status' /></a></li>
 			<li><img alt="RackTables download stats" src="https://img.shields.io/sourceforge/dm/racktables.svg" /></li>
 		</ul>
 	</div>
