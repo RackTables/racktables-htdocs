@@ -138,7 +138,7 @@ div.DownloadButton a {
 	display: inline;
 	list-style-type: none;
 	font-size: 1.3em;
-	padding: 0px 30px 0px 0px;
+	padding-right: 25px;
 }
 
 #BottomMenu ul li a {
