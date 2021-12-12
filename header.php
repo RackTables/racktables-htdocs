@@ -10,6 +10,7 @@ if (! isset ($bodyId))
 <head>
 	<meta charset="utf-8">
 	<title>RackTables</title>
+	<link rel="shortcut icon" href="/img/RackTables-16x16.png" type="image/png" />
 	<link rel="stylesheet" href="racktables.org.css" />
 </head>
 
