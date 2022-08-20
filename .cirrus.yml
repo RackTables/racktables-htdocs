@@ -3,12 +3,12 @@ env:
 
 task:
   container:
-    image: ubuntu:20.04
+    image: ubuntu:22.04
     cpu: 1
     memory: 512M
   env:
     DEBIAN_FRONTEND: noninteractive
   script:
-    - apt-get -qy update
-    - apt-get -qy install php7.4-cli # Same as on the live server.
+    - apt-get -qy update >/dev/null
+    - apt-get -qy install php7.4-cli >/dev/null # Same as on the live server.
     - ./test_ci.sh
