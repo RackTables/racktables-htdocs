@@ -10,5 +10,5 @@ task:
     DEBIAN_FRONTEND: noninteractive
   script:
     - apt-get -qy update >/dev/null
-    - apt-get -qy install php7.4-cli >/dev/null # Same as on the live server.
+    - apt-get -qy install php-cli >/dev/null
     - ./test_ci.sh
