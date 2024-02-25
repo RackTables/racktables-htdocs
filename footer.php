@@ -3,7 +3,7 @@
 		<ul>
 			<li><a href="https://wiki.racktables.org/">Wiki</a></li>
 			<li><a class=away href="https://github.com/RackTables/racktables">Source code</a>
-				<small>(<a href="https://code.racktables.org/">mirror</a>)</small></li>
+				<small>(<a href="https://git.racktables.org/">mirror</a>)</small></li>
 			<li><a href='https://bugs.racktables.org/'>Bug tracker</a></li>
 			<li><a href='https://bugs.racktables.org/roadmap_page.php'>Roadmap</a></li>
 			<li><a class=away href="https://sourceforge.net/donate/index.php?group_id=293827"><img src="/img/sf-project-support.jpeg" width="88" height="32" alt="Support This Project" /></a></li>
